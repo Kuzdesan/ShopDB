@@ -1,6 +1,12 @@
 # ShopDB
+<h2> Diagram </h2>
+
+![diagram](https://user-images.githubusercontent.com/99547319/234982093-e25b5710-c956-4e40-af44-bbb073b5b6c8.png)
+
 <h2>
+
 General Structure
+
 </h2>
 <p>
 Описание элементов интернет-магазина.
